@@ -109,4 +109,5 @@ if (!String.prototype.num2word) {
 }
 
 '100000'.num2word();
+'hhu'.num2word();
 '10000000000'.num2word();
